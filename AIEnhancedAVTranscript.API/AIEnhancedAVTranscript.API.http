@@ -1,0 +1,6 @@
+@AIEnhancedAVTranscript.API_HostAddress = http://localhost:5263
+
+GET {{AIEnhancedAVTranscript.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
