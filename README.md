@@ -1,3 +1,8 @@
+
+"I belong to the warrior in whom the old ways have joined the new."
+
+— Katsumoto, The Last Samurai (2003)
+
 # Full-Stack Application: .NET Core API + Angular + OpenAI Integration
 
 This full-stack app combines a **.NET Core backend API**, an **Angular frontend**, and **OpenAI's generative AI** to offer content generation features. Users can upload text, audio, or video, and generate user stories, test cases, and other content using AI.
